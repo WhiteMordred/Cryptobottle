@@ -1,3 +1,5 @@
+Suite au hack de Cryptobottle voici ce que j'ai mis au point 
+
 Smart Contract Analyzer
 
 Ce projet est un outil d’analyse de transactions et de contrats intelligents sur la blockchain Polygon. Il permet d’analyser des transactions suspectes, de détecter des changements d’implémentation dans des contrats proxy, de tracer les interactions entre contrats, et de générer des rapports détaillés sur l’historique des événements.
